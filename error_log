@@ -1,0 +1,37 @@
+[30-Jan-2025 02:19:09 UTC] PHP Warning:  require(/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 02:19:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 02:23:47 UTC] PHP Warning:  require(/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 02:23:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:35:25 UTC] PHP Warning:  require(/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:35:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:35:46 UTC] PHP Warning:  require(/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:35:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:37:13 UTC] PHP Warning:  require(/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:37:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:39:46 UTC] PHP Warning:  require(/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:39:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:40:56 UTC] PHP Warning:  require(/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[30-Jan-2025 04:40:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shoppbfs/bizzyv2.shopnoneer.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/index.php on line 34
+[07-May-2025 09:59:58 America/Chicago] PHP Warning:  Uninitialized string offset 1 in /home4/tcfktbte/zlog.rifat-ahmed.com/vendor/symfony/console/Input/ArgvInput.php on line 280
+[07-May-2025 10:01:15 America/Chicago] PHP Warning:  Uninitialized string offset 1 in /home4/tcfktbte/zlog.rifat-ahmed.com/vendor/symfony/console/Input/ArgvInput.php on line 280
