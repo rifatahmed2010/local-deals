@@ -1,0 +1,13 @@
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}*/
+
+.add-btn{
+    float: right;
+    height: 27px;
+    padding-top: 1px;
+}

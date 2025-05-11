@@ -1,0 +1,40 @@
+[26-Jan-2025 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 21:46:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 23:53:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 23:54:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7
+[26-Jan-2025 23:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/tests/TestCase.php on line 7

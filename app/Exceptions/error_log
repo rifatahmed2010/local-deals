@@ -1,0 +1,20 @@
+[27-Jan-2025 00:54:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php on line 8
+[27-Jan-2025 00:54:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php on line 8
+[27-Jan-2025 00:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php on line 8
+[27-Jan-2025 00:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php on line 8
+[27-Jan-2025 00:54:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Exceptions/Handler.php on line 8

@@ -1,0 +1,160 @@
+[27-Jan-2025 00:54:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php on line 8
+[27-Jan-2025 00:54:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php on line 8
+[27-Jan-2025 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php on line 8
+[27-Jan-2025 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php on line 8
+[27-Jan-2025 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php on line 15
+[27-Jan-2025 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php on line 8
+[27-Jan-2025 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php on line 8
+[27-Jan-2025 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php on line 10
+[27-Jan-2025 00:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php on line 8
+[27-Jan-2025 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php on line 8
+[27-Jan-2025 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php on line 8
+[27-Jan-2025 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php on line 8
+[27-Jan-2025 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php on line 8
+[27-Jan-2025 00:54:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php on line 15
+[27-Jan-2025 00:54:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php on line 8
+[27-Jan-2025 00:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php on line 10
+[27-Jan-2025 00:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php on line 8
+[27-Jan-2025 00:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php on line 8
+[27-Jan-2025 00:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php on line 8
+[27-Jan-2025 00:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php on line 8
+[27-Jan-2025 00:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php on line 15
+[27-Jan-2025 00:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php on line 8
+[27-Jan-2025 00:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php on line 8
+[27-Jan-2025 00:54:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php on line 8
+[27-Jan-2025 00:54:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php on line 8
+[27-Jan-2025 00:54:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php on line 8
+[27-Jan-2025 00:54:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php on line 8
+[27-Jan-2025 00:54:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php on line 10
+[27-Jan-2025 00:54:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php on line 8
+[27-Jan-2025 00:54:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php on line 15
+[27-Jan-2025 00:54:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php on line 10
+[27-Jan-2025 00:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ClaimDeal.php on line 8
+[27-Jan-2025 00:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/ContactInformation.php on line 8
+[27-Jan-2025 00:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/analytic.php on line 8
+[27-Jan-2025 00:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/PushNotification.php on line 8
+[27-Jan-2025 00:54:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/User.php on line 15
+[27-Jan-2025 00:54:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/BusinessRequest.php on line 8
+[27-Jan-2025 00:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php on line 8
+[27-Jan-2025 00:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/Deal.php on line 10
+[27-Jan-2025 00:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/app/Models/UserVerification.php on line 8

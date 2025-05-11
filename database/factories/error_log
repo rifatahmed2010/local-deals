@@ -1,0 +1,20 @@
+[27-Jan-2025 00:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php on line 14
+[27-Jan-2025 00:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php on line 14
+[27-Jan-2025 00:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php on line 14
+[27-Jan-2025 00:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php on line 14
+[27-Jan-2025 00:56:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/factories/UserFactory.php on line 14

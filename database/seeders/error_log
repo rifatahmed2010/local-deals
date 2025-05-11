@@ -1,0 +1,40 @@
+[27-Jan-2025 00:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php on line 15
+[27-Jan-2025 00:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php on line 8
+[27-Jan-2025 00:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php on line 15
+[27-Jan-2025 00:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php on line 8
+[27-Jan-2025 00:54:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php on line 15
+[27-Jan-2025 00:54:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php on line 8
+[27-Jan-2025 00:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php on line 15
+[27-Jan-2025 00:54:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php on line 8
+[27-Jan-2025 00:54:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/AdminAreaData.php on line 15
+[27-Jan-2025 00:55:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/seeders/DatabaseSeeder.php on line 8

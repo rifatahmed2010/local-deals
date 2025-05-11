@@ -1,0 +1,376 @@
+[26-Jan-2025 19:02:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 19:02:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 19:02:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 19:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 21:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 21:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 21:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 21:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 22:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 22:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 22:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 22:16:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 22:16:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php on line 18
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php on line 18
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php on line 17
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Jetstream\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php on line 65
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php on line 16
+[26-Jan-2025 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php on line 9
+[26-Jan-2025 23:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php on line 18
+[26-Jan-2025 23:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php on line 16
+[26-Jan-2025 23:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php on line 18
+[26-Jan-2025 23:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php on line 21
+[26-Jan-2025 23:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php on line 32
+[26-Jan-2025 23:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php on line 18
+[26-Jan-2025 23:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Fortify\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php on line 147
+[26-Jan-2025 23:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php on line 21
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php on line 17
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php on line 18
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Jetstream\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php on line 65
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php on line 18
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php on line 18
+[26-Jan-2025 23:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php on line 21
+[26-Jan-2025 23:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php on line 16
+[26-Jan-2025 23:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php on line 9
+[26-Jan-2025 23:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php on line 32
+[26-Jan-2025 23:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php on line 16
+[26-Jan-2025 23:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php on line 18
+[26-Jan-2025 23:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Fortify\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php on line 147
+[26-Jan-2025 23:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php on line 18
+[26-Jan-2025 23:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 23:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php on line 17
+[26-Jan-2025 23:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php on line 18
+[26-Jan-2025 23:53:45 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Jetstream\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php on line 65
+[26-Jan-2025 23:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php on line 18
+[26-Jan-2025 23:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php on line 18
+[26-Jan-2025 23:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php on line 21
+[26-Jan-2025 23:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php on line 16
+[26-Jan-2025 23:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php on line 16
+[26-Jan-2025 23:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php on line 32
+[26-Jan-2025 23:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php on line 9
+[26-Jan-2025 23:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php on line 18
+[26-Jan-2025 23:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Fortify\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php on line 147
+[26-Jan-2025 23:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 23:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php on line 17
+[26-Jan-2025 23:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php on line 18
+[26-Jan-2025 23:53:55 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Jetstream\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php on line 65
+[26-Jan-2025 23:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php on line 18
+[26-Jan-2025 23:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php on line 16
+[26-Jan-2025 23:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php on line 21
+[26-Jan-2025 23:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php on line 18
+[26-Jan-2025 23:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php on line 32
+[26-Jan-2025 23:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php on line 21
+[26-Jan-2025 23:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php on line 18
+[26-Jan-2025 23:53:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php on line 18
+[26-Jan-2025 23:53:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php on line 9
+[26-Jan-2025 23:53:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Fortify\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php on line 147
+[26-Jan-2025 23:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php on line 16
+[26-Jan-2025 23:54:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php on line 16
+[26-Jan-2025 23:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/app.php on line 19
+[26-Jan-2025 23:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/view.php on line 17
+[26-Jan-2025 23:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/services.php on line 18
+[26-Jan-2025 23:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/cache.php on line 18
+[26-Jan-2025 23:54:07 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Jetstream\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/jetstream.php on line 65
+[26-Jan-2025 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/queue.php on line 16
+[26-Jan-2025 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/logging.php on line 21
+[26-Jan-2025 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/hashing.php on line 32
+[26-Jan-2025 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/database.php on line 18
+[26-Jan-2025 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php on line 18
+[26-Jan-2025 23:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/sanctum.php on line 18
+[26-Jan-2025 23:54:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/media-library.php on line 9
+[26-Jan-2025 23:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Fortify\Features" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/fortify.php on line 147
+[26-Jan-2025 23:54:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php on line 16
+[26-Jan-2025 23:54:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/broadcasting.php on line 18
+[26-Jan-2025 23:54:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php on line 16
+[26-Jan-2025 23:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/filesystems.php on line 16
+[26-Jan-2025 23:54:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php on line 21
+[26-Jan-2025 23:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php on line 16
+[26-Jan-2025 23:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php on line 21
+[26-Jan-2025 23:55:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/session.php on line 21
+[26-Jan-2025 23:55:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/config/mail.php on line 16

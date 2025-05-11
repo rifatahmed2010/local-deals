@@ -1,0 +1,40 @@
+[27-Jan-2025 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[27-Jan-2025 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 8
+[27-Jan-2025 00:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[27-Jan-2025 00:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 8
+[27-Jan-2025 00:54:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 8
+[27-Jan-2025 00:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[27-Jan-2025 00:54:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 8
+[27-Jan-2025 00:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 8
+[27-Jan-2025 00:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[27-Jan-2025 00:55:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shoppbfs/bizzyv2.shopnoneer.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
